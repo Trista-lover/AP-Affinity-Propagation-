@@ -12,4 +12,5 @@ AP(Affinity Propagation)、matlab、python
 
 4.AP1-AP3是Python运行程序，都可实现算法功能，读者可以自己修改输入数据
    运行结果为AP1-AP3.jpg。
+
 5.因在网上学习的相关内容，如有侵权，请及时联系本人。
